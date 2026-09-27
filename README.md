@@ -21,4 +21,4 @@ A menu-driven Python calculator developed using Git and GitHub branching. The fi
 - Division-by-zero error handling
 
 ## Sample Execution
-*(Insert your final screenshots here before submission)*
+<img width="642" height="879" alt="sample" src="https://github.com/user-attachments/assets/15e567fa-e986-484d-a26e-ad07a7a66b1b" />
